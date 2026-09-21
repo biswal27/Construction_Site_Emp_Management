@@ -1,0 +1,6 @@
+{
+  "name": "BuildForce - Construction Workforce Salary & Expense Management",
+  "description": "Modern Android 15 & Jetpack Compose workforce salary calculation, daily wage, mobile muster roll attendance, AI receipt scanner, and expense management system with Spring Boot 3 backend.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
